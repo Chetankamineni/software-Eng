@@ -1,2 +1,2 @@
 # softwareEng
-all my weekly activities ae updated here
+all my weekly activities are updated here
